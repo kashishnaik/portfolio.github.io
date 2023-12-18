@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    background-image: url(https://thumbs.dreamstime.com/z/healthy-plant-based-fast-food-table-scene-top-view-white-wood-background-cauliflower-crust-pizzas-bean-burgers-mushroom-tacos-211964898.jpg);
+    background-position: center;
+    padding-top: 50px;
+    border-radius:20px ;
+    
+}
+
+.sing-up-form{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+.sing-up-form h1{
+    color:#1e8adb;
+    margin-bottom: 30px;
+    border: 1px solid #999;
+    border-radius: 20px;
+    outline: none;
+    background-color: white;
+    width: 94%;
+    margin: 10px;
+    width: 80%;
+    margin-left: 15px;
+    margin-right: 30px;
+    padding-right: 22px;
+    
+}
+
+.input-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 80%;
+    border: 1px solid #999;
+    outline: none;
+
+}
+
+button{
+    color: black;
+    width: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    
+}
+
+.sing-up-form{
+    background-color: rgb(232, 210, 183);
+   
+    
+    
+}
+.sign-btn{
+    background-color: white;
+    width: 160px;
+}
+
+
+
+.google-btn{
+    background-color: white;
+    width: 160px;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    margin-top: 20px;
+    width: 80px;
+}
+.or{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+
+}
+
+.col{
+    a:link{
+        color:black;
+    }
+    a:visited{
+        color: black;
+    }
+    a{
+        text-decoration: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
